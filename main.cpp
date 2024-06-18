@@ -1,6 +1,12 @@
 #include<iostream>
 
 void bubblesort(){
+
+} 
+
+void quicksort(){
+
+
    
 }
 
